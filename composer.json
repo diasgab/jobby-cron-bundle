@@ -1,5 +1,5 @@
 {
-    "name": "imper86/jobby-cron-bundle",
+    "name": "diasgab/jobby-cron-bundle",
     "description": "symfony bundle for jobbyphp/jobby",
     "keywords": ["symfony", "bundle", "jobby", "cron", "crontab"],
     "type": "symfony-bundle",
